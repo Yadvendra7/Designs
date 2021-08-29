@@ -1,2 +1,2 @@
-# Graphic&WebDesigns
+# GraphicDesigns
 
